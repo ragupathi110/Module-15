@@ -1,4 +1,4 @@
-# Experiment 15E: Heap Tree
+# Experiment 15C: Heap Tree
 
 ## Aim
 To write a Python program to build a heap tree using appropriate Python package and function.
